@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="chart_entry_label">#3F51B5</color>
+    <color name="line_entry_irobo">#26A69A</color>
+    <color name="line_circle_irobo">#004D40</color>
+    <color name="line_fade_irobo">#5526A69A</color>
+
+    <color name="line_entry_kospi">#EF5350</color>
+    <color name="line_circle_kospi">#B71C1C</color>
+    <color name="line_fade_kospi">#55EF5350</color>
+
+    <color name="line_entry_other">#D4E157</color>
+    <color name="line_circle_other">#827717</color>
+    <color name="line_fade_other">#55D4E157</color>
+</resources>
